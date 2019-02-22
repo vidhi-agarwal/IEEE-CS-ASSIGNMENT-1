@@ -1,0 +1,63 @@
+body {
+    background: url(Background.png);
+
+}
+
+img:nth-of-type(1) {
+    margin-left: 15px;
+    margin-top: 30px;
+}
+
+#hamburger {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+h1 {
+    color: #1499b1;
+    padding-left: 50px;
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+th {
+    color: #1499b1;
+    text-align: left;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-bottom: 15px;
+}
+
+td {
+    color: yellow;
+    padding-left: 50px;
+    padding-right: 100px;
+}
+
+#arrow {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-top: 150px;
+}
+
+#git {
+    position: fixed;
+    bottom: 5px;
+    right: 60px;
+}
+
+#fb {
+    position: fixed;
+    bottom: 5px;
+    right: 100px;
+}
+
+#locator {
+    position: fixed;
+    bottom: 5px;
+    right: 33px;
+
+}
